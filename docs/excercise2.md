@@ -8,8 +8,7 @@
 <!-- | Is Random        | Yes           | No            |               |
 | ...              | ...           | ...           |               | -->
 
-Note: You can write some explanation about how you design your IDM to help you
-during demonstration.
+Note: Already Constrained
 
 ## IDM Relabeling Table
 
@@ -29,11 +28,13 @@ during demonstration.
 
 Criteria Used: ACoC
 
-Note: You can write some explanation about how you choose your criteria to help
-you during demonstration.
+Note: Karena jumlah yang di buat tidak terlalu banyak sehingga dapat dimasukkan semuanya
 
 | Test Value | Example Input | Expected Output |
 |------------|---------------|-----------------|
 | A1    | -1       | ''        |
 | A2    | 0       | ''             |
 | A3        | 1           |sebuah string dengan panjang 1|
+
+
+Tidak ada perubahan karena semua sudah tercover oleh test pada testcase file test_string_utils.py
